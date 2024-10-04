@@ -1,0 +1,83 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium-compile.map
+Output file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium.bsp
+
+INFO: using built-in palette.
+      2 entities
+      4 unique textures
+     28 texinfos
+    144 unique planes
+
+INFO: world extents calculated to 2984 units
+     53 brushes
+    318 sides
+      8 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    53 SOLID brushes
+    53 brushes total
+    318 visible sides
+INFO: calculating BSP for 53 brushes with 318 sides
+     53 brushes
+    318 visible faces
+    581 nodes
+    500 expensive split nodes
+     81 mid-split nodes
+    582 leaves
+    281 EMPTY leafs
+    301 SOLID leafs
+    582 leafs total
+    18 max tree height
+    11 avg tree height
+    2,398 tree portals
+WARNING: Reached occupant "info_player_coop" at (-160 -176 40), no filling performed.
+Leak file written to abandonedaquarium.pts
+           20 portals written to abandonedaquarium.leak.prt
+    2,398 tree portals
+    817 sides visible
+    817 makefaces
+    151 merged
+    392 subdivided
+    78 nodes pruned
+    281 EMPTY leafs
+    223 SOLID leafs
+    504 leafs total
+    18 max tree height
+    11 avg tree height
+      706 edges added by tjunctions
+    1,040 faces optimized through MWT
+    2,796 triangles computed from MWT
+      159 faces created via optimization of MWT triangles
+    2,705 edges
+    1,217 faces
+Processing hull 1...
+Processing hull 2...
+Writing abandonedaquarium.bsp as Quake BSP bsp29
+Wrote abandonedaquarium.bsp
+
+count   lump name    byte size 
+      1 models               64
+    120 planes             2400
+   1313 vertexes          15756
+    503 nodes             12072
+     26 texinfos           1040
+   1217 faces             24340
+    222 clipnodes          1776
+    282 leafs              7896
+   1302 marksurfaces       2604
+   2706 edges             10824
+   5248 surfedges         20992
+      4 textures          32780
+        lightdata             0
+        visdata               0
+        entdata             254
+
+0.099s seconds elapsed
+
+
