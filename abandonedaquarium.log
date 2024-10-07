@@ -7,55 +7,57 @@ Input file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquari
 Output file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium.bsp
 
 INFO: using built-in palette.
-      2 entities
-      4 unique textures
-     28 texinfos
-    144 unique planes
+      4 entities
+      5 unique textures
+     35 texinfos
+    202 unique planes
 
 INFO: world extents calculated to 2984 units
-     53 brushes
-    318 sides
-      8 side bevels
+     71 brushes
+    428 sides
+     11 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    53 SOLID brushes
-    53 brushes total
-    318 visible sides
-INFO: calculating BSP for 53 brushes with 318 sides
-     53 brushes
-    318 visible faces
-    581 nodes
-    500 expensive split nodes
-     81 mid-split nodes
-    582 leaves
-    281 EMPTY leafs
-    301 SOLID leafs
-    582 leafs total
-    18 max tree height
-    11 avg tree height
-    2,398 tree portals
-WARNING: Reached occupant "info_player_coop" at (-160 -176 40), no filling performed.
+    71 SOLID brushes
+    71 brushes total
+    428 visible sides
+INFO: calculating BSP for 71 brushes with 428 sides
+     71 brushes
+    428 visible faces
+    670 nodes
+    629 expensive split nodes
+     41 mid-split nodes
+    671 leaves
+    323 EMPTY leafs
+    348 SOLID leafs
+    671 leafs total
+    19 max tree height
+    12 avg tree height
+    1 tiny portals
+    2,951 tree portals
+WARNING: Reached occupant "info_player_start" at (-144 -192 40), no filling performed.
 Leak file written to abandonedaquarium.pts
-           20 portals written to abandonedaquarium.leak.prt
-    2,398 tree portals
-    817 sides visible
-    817 makefaces
-    151 merged
-    392 subdivided
-    78 nodes pruned
-    281 EMPTY leafs
-    223 SOLID leafs
-    504 leafs total
-    18 max tree height
-    11 avg tree height
-      706 edges added by tjunctions
-    1,040 faces optimized through MWT
-    2,796 triangles computed from MWT
-      159 faces created via optimization of MWT triangles
-    2,705 edges
-    1,217 faces
+            9 portals written to abandonedaquarium.leak.prt
+    1 tiny portals
+    2,951 tree portals
+    1,023 sides visible
+    1,023 makefaces
+      222 merged
+      691 subdivided
+    84 nodes pruned
+    323 EMPTY leafs
+    264 SOLID leafs
+    587 leafs total
+    19 max tree height
+    12 avg tree height
+    1,129 edges added by tjunctions
+    1,464 faces optimized through MWT
+    4,072 triangles computed from MWT
+      267 faces created via optimization of MWT triangles
+    3,998 edges
+    1,759 faces
 Processing hull 1...
 Processing hull 2...
 Writing abandonedaquarium.bsp as Quake BSP bsp29
@@ -63,21 +65,21 @@ Wrote abandonedaquarium.bsp
 
 count   lump name    byte size 
       1 models               64
-    120 planes             2400
-   1313 vertexes          15756
-    503 nodes             12072
-     26 texinfos           1040
-   1217 faces             24340
-    222 clipnodes          1776
-    282 leafs              7896
-   1302 marksurfaces       2604
-   2706 edges             10824
-   5248 surfedges         20992
-      4 textures          32780
+    181 planes             3620
+   1830 vertexes          21960
+    586 nodes             14064
+     32 texinfos           1280
+   1759 faces             35180
+    384 clipnodes          3072
+    324 leafs              9072
+   1862 marksurfaces       3724
+   3999 edges             15996
+   7618 surfedges         30472
+      5 textures          70904
         lightdata             0
         visdata               0
-        entdata             254
+        entdata             377
 
-0.113s seconds elapsed
+0.109s seconds elapsed
 
 
