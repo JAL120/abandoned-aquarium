@@ -1011,7 +1011,8 @@
 // entity 1
 {
 "classname" "info_player_start"
-"origin" "-144 -192 40"
+"origin" "-736 176 40"
+"angle" "315"
 }
 // entity 2
 {
@@ -1061,4 +1062,22 @@
 {
 "classname" "weapon_nailgun"
 "origin" "880 -784 688"
+}
+// entity 11
+{
+"classname" "info_player_start"
+"origin" "-64 1152 421.774"
+"angle" "270"
+}
+// entity 12
+{
+"classname" "info_player_start"
+"origin" "-320 -192 712"
+"angle" "45"
+}
+// entity 13
+{
+"classname" "info_player_start"
+"origin" "1152 -1312 712"
+"angle" "120"
 }

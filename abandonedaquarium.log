@@ -7,7 +7,7 @@ Input file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquari
 Output file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium.bsp
 
 INFO: using built-in palette.
-     10 entities
+     14 entities
       6 unique textures
      51 texinfos
     298 unique planes
@@ -36,7 +36,7 @@ INFO: calculating BSP for 111 brushes with 668 sides
     21 max tree height
     12 avg tree height
     4,810 tree portals
-WARNING: Reached occupant "info_player_deathmatch" at (-736 176 40), no filling performed.
+WARNING: Reached occupant "info_player_start" at (-736 176 40), no filling performed.
 Leak file written to abandonedaquarium.pts
             5 portals written to abandonedaquarium.leak.prt
     4,810 tree portals
@@ -76,8 +76,8 @@ count   lump name    byte size
       6 textures          92708
         lightdata             0
         visdata               0
-        entdata             804
+        entdata            1110
 
-0.212s seconds elapsed
+0.208s seconds elapsed
 
 
