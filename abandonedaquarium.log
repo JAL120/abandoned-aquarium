@@ -7,7 +7,7 @@ Input file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquari
 Output file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium.bsp
 
 INFO: using built-in palette.
-     14 entities
+     15 entities
       6 unique textures
      51 texinfos
     298 unique planes
@@ -76,8 +76,8 @@ count   lump name    byte size
       6 textures          92708
         lightdata             0
         visdata               0
-        entdata            1110
+        entdata            1203
 
-0.208s seconds elapsed
+0.212s seconds elapsed
 
 
