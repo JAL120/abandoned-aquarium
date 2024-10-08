@@ -1027,33 +1027,38 @@
 }
 // entity 4
 {
-"classname" "weapon_nailgun"
-"origin" "-48 560 16"
-}
-// entity 5
-{
 "classname" "info_player_deathmatch"
 "origin" "-64 1152 421.774"
 "angle" "270"
 }
-// entity 6
+// entity 5
 {
 "classname" "weapon_lightning"
 "origin" "576 656 432"
 }
-// entity 7
+// entity 6
 {
 "classname" "info_player_deathmatch"
 "origin" "-320 -192 704"
 "angle" "45"
 }
-// entity 8
+// entity 7
 {
 "classname" "item_armor1"
 "origin" "-352 736 288"
 }
-// entity 9
+// entity 8
 {
 "classname" "weapon_rocketlauncher"
 "origin" "496 0 272"
+}
+// entity 9
+{
+"classname" "weapon_grenadelauncher"
+"origin" "-16 528 16"
+}
+// entity 10
+{
+"classname" "weapon_nailgun"
+"origin" "880 -784 688"
 }
