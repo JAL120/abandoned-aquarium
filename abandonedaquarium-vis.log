@@ -6,8 +6,17 @@
 LoadBSPFile: 'abandonedaquarium.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-************ ERROR ************
-LoadPrtFile: unknown header/empty portal file abandonedaquarium.prt
-
+   412 leafs
+   412 clusters
+  1126 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 113
+c_noclip: 0
+c_chains: 1490104
+visdatasize:13727  compressed from 21424
+Writing abandonedaquarium.bsp as Quake BSP bsp29
+0.33s elapsed
 
 
