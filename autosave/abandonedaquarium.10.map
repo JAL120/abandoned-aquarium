@@ -2691,3 +2691,13 @@
 "origin" "144 320 328"
 "angle" "240"
 }
+// entity 31
+{
+"classname" "item_rockets"
+"origin" "-576 560 432"
+}
+// entity 32
+{
+"classname" "item_rockets"
+"origin" "976 -608 472"
+}
