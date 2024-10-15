@@ -14,9 +14,9 @@ Calculating Full Vis:
 Expanding clusters...
 average leafs visible: 112
 c_noclip: 0
-c_chains: 1446430
+c_chains: 1446253
 visdatasize:13697  compressed from 21632
 Writing abandonedaquarium.bsp as Quake BSP bsp29
-0.38s elapsed
+0.33s elapsed
 
 

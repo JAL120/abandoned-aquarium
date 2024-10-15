@@ -7,10 +7,10 @@ Input file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquari
 Output file: C:\Users\jerma\OneDrive\Desktop\GameEngineScripting\abandoned-aquarium\abandonedaquarium.bsp
 
 INFO: using built-in palette.
-     31 entities
+     43 entities
       6 unique textures
      90 texinfos
-    896 unique planes
+    900 unique planes
 
 INFO: world extents calculated to 2984 units
       277 brushes
@@ -36,7 +36,7 @@ INFO: calculating BSP for 277 brushes with 1684 sides
     35 max tree height
     15 avg tree height
     47 tiny portals
-    13,053 tree portals
+    13,055 tree portals
     670 outside leaves
     0 detail filled leafs
     277 brushes
@@ -84,12 +84,12 @@ Wrote abandonedaquarium.bsp
 
 count   lump name    byte size 
       1 models               64
-    793 planes            15860
+    794 planes            15880
    2721 vertexes          32652
    1018 nodes             24432
      73 texinfos           2920
    2416 faces             48320
-   2967 clipnodes         23736
+   2971 clipnodes         23768
     417 leafs             11676
    2763 marksurfaces       5526
    5325 edges             21300
@@ -97,8 +97,8 @@ count   lump name    byte size
       6 textures          92708
         lightdata             0
         visdata               0
-        entdata            2372
+        entdata            3022
 
-0.503s seconds elapsed
+0.476s seconds elapsed
 
 
