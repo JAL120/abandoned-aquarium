@@ -6,7 +6,7 @@ img::ConvertTextures: WARNING: invalid size data for
 Loading extended texinfo flags from abandonedaquarium.texinfo.json...
 WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
 WARNING: brush entity with mins [705 625 433] maxs [735 671 527] (trigger_teleport) has empty key/value "targetname" ""
-51 entities read, 4 are lights.
+123 entities read, 76 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -14,20 +14,20 @@ WARNING: brush entity with mins [705 625 433] maxs [735 671 527] (trigger_telepo
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	3010 solid faces
+	3177 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 4 initial lights
-SetupLights: 4 after surface lights
-SetupLights: 4 after jittering
-Final count: 4 lights, 0 suns in use.
+SetupLights: 76 initial lights
+SetupLights: 76 after surface lights
+SetupLights: 76 after jittering
+Final count: 76 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 13004
+lightmap size (total): 192440
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing abandonedaquarium.bsp as Quake BSP bsp29
-0.066s seconds elapsed
+0.086s seconds elapsed
 0 empty lightmaps
 
 

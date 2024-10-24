@@ -6,17 +6,17 @@
 LoadBSPFile: 'abandonedaquarium.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-   699 leafs
-   523 clusters
-  1404 portals
+   757 leafs
+   551 clusters
+  1538 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 171
+average leafs visible: 191
 c_noclip: 0
-c_chains: 2159287
-visdatasize:22099  compressed from 61512
+c_chains: 2822199
+visdatasize:25452  compressed from 71915
 Writing abandonedaquarium.bsp as Quake BSP bsp29
-0.50s elapsed
+0.77s elapsed
 
 
