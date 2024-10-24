@@ -4193,3 +4193,23 @@
 ( 736 672 448 ) ( 736 672 449 ) ( 736 673 448 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
+// entity 47
+{
+"classname" "light"
+"origin" "-424 24 104"
+}
+// entity 48
+{
+"classname" "light"
+"origin" "-424 200 104"
+}
+// entity 49
+{
+"classname" "light"
+"origin" "-680 8 24"
+}
+// entity 50
+{
+"classname" "light"
+"origin" "-680 -168 24"
+}
