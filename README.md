@@ -1,4 +1,4 @@
-# abandoned-aquarium
+# Quake Level: Abandoned-aquarium
 Multiplayer deathmatch quake map
 
 (Insert video of final map)
