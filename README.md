@@ -7,4 +7,4 @@ Multiplayer deathmatch quake map
 1. [Preproduction](preproduction.md)
 2. [Blockout](blockout.md)
 3. [Playtesting and Iteration](playtesting-and-Iteration.md)
-4. [Textures and Lighting](textures-and-lighting.md)
+4. [Immersion and Theme](immersion-and-theme.md)
