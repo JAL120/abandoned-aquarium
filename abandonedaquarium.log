@@ -10,77 +10,77 @@ INFO: using built-in palette.
       123 entities
        23 unique textures
       225 texinfos
-    1,126 unique planes
+    1,154 unique planes
 
 INFO: world extents calculated to 2984 units
-      458 brushes
-    2,774 sides
+      516 brushes
+    3,122 sides
       289 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    400 SOLID brushes
-     56 WATER | Q2_UNUSED_8 brushes
-    456 brushes total
-    2,762 visible sides
-INFO: calculating BSP for 456 brushes with 2762 sides
-      456 brushes
-    2,762 visible faces
-    5,697 nodes
-    5,034 expensive split nodes
-      663 mid-split nodes
-    5,698 leaves
-      344 WATER | Q2_UNUSED_8 leafs
-    2,191 EMPTY leafs
-    3,163 SOLID leafs
-    5,698 leafs total
-    32 max tree height
+    445 SOLID brushes
+     69 WATER | Q2_UNUSED_8 brushes
+    514 brushes total
+    3,110 visible sides
+INFO: calculating BSP for 514 brushes with 3110 sides
+      514 brushes
+    3,110 visible faces
+    5,879 nodes
+    5,238 expensive split nodes
+      641 mid-split nodes
+    5,880 leaves
+      385 WATER | Q2_UNUSED_8 leafs
+    2,165 EMPTY leafs
+    3,330 SOLID leafs
+    5,880 leafs total
+    36 max tree height
     16 avg tree height
-    57 tiny portals
-    23,855 tree portals
-    1,226 outside leaves
+    54 tiny portals
+    24,428 tree portals
+    1,213 outside leaves
     0 detail filled leafs
-      456 brushes
-    1,255 visible faces
-    1,507 non-visible faces
-    3,814 nodes
-    1,567 non-visible nodes
-    3,814 expensive split nodes
-    3,815 leaves
-      204 WATER | Q2_UNUSED_8 leafs
-    1,336 EMPTY leafs
-    2,275 SOLID leafs
-    3,815 leafs total
+      514 brushes
+    1,427 visible faces
+    1,683 non-visible faces
+    4,030 nodes
+    1,661 non-visible nodes
+    4,030 expensive split nodes
+    4,031 leaves
+      225 WATER | Q2_UNUSED_8 leafs
+    1,414 EMPTY leafs
+    2,392 SOLID leafs
+    4,031 leafs total
     38 max tree height
     17 avg tree height
-    51 tiny portals
-    16,814 tree portals
-    783 outside leaves
+    59 tiny portals
+    17,844 tree portals
+    841 outside leaves
     0 detail filled leafs
-    51 tiny portals
-    16,814 tree portals
-    4,801 sides visible
-    3,977 makefaces
-    1,549 merged
-      979 subdivided
-    2,296 nodes pruned
-    12 tiny portals
-      757 player-occupiable leaves
-      551 clusters of leaves
-    1,538 vis portals
-      762 SOLID leafs
-      185 WATER | Q2_UNUSED_8 leafs
-      572 EMPTY leafs
-    1,519 leafs total
+    59 tiny portals
+    17,844 tree portals
+    5,482 sides visible
+    4,481 makefaces
+    1,767 merged
+    1,115 subdivided
+    2,419 nodes pruned
+    10 tiny portals
+      798 player-occupiable leaves
+      576 clusters of leaves
+    1,640 vis portals
+      814 SOLID leafs
+      207 WATER | Q2_UNUSED_8 leafs
+      591 EMPTY leafs
+    1,612 leafs total
     38 max tree height
     16 avg tree height
-    2,638 edges added by tjunctions
-    3,290 faces optimized through MWT
-    9,311 triangles computed from MWT
-      639 faces created via optimization of MWT triangles
-    10,085 edges
-     4,046 faces
+     2,977 edges added by tjunctions
+     3,706 faces optimized through MWT
+    10,487 triangles computed from MWT
+       748 faces created via optimization of MWT triangles
+    11,572 edges
+     4,577 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 249 >= 127)
@@ -89,21 +89,21 @@ Wrote abandonedaquarium.bsp
 
 count   lump name    byte size 
       3 models              192
-    958 planes            19160
-   4263 vertexes          51156
-   1530 nodes             36720
-    177 texinfos           7080
-   4058 faces             81160
-   3542 clipnodes         28336
-    772 leafs             21616
-   5157 marksurfaces      10314
-  10110 edges             40440
-  17568 surfedges         70272
+    967 planes            19340
+   4689 vertexes          56268
+   1623 nodes             38952
+    182 texinfos           7280
+   4589 faces             91780
+   3703 clipnodes         29624
+    813 leafs             22764
+   5900 marksurfaces      11800
+  11597 edges             46388
+  19812 surfedges         79248
      23 textures         168688
         lightdata             0
         visdata               0
         entdata            7729
 
-0.824s seconds elapsed
+1.390s seconds elapsed
 
 

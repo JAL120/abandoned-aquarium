@@ -14,7 +14,7 @@ WARNING: brush entity with mins [705 625 433] maxs [735 671 527] (trigger_telepo
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	3177 solid faces
+	3516 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 76 initial lights
@@ -22,12 +22,12 @@ SetupLights: 76 after surface lights
 SetupLights: 76 after jittering
 Final count: 76 lights, 0 suns in use.
 0 surface light points in use.
-lightmap size (total): 192440
+lightmap size (total): 201920
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing abandonedaquarium.bsp as Quake BSP bsp29
-0.086s seconds elapsed
+0.138s seconds elapsed
 0 empty lightmaps
 
 
